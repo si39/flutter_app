@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "798042652034",
+    "project_id": "flutter-sim",
+    "storage_bucket": "flutter-sim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798042652034:android:a5749528a6cb5fb08c639b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798042652034-5op7bq3odgrl2vpi5s15b9117p6pntbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_sim",
+            "certificate_hash": "0ea96b0c4cc35979ce90f317437bf4696e17514b"
+          }
+        },
+        {
+          "client_id": "798042652034-fho14f8ubd1lnmac2p6bjroql44kkapd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuYw739k2wUGz1W3mfyFN7jWXW0sG4Fb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798042652034-fho14f8ubd1lnmac2p6bjroql44kkapd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
